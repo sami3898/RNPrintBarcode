@@ -17,6 +17,8 @@ Android:
 
 iOS:
 `npx react-native run-ios`
-
-Help me buy some good books
+<br/>
+<br/>
+Help me buy some good books 
+<br/>
 <a href="https://www.buymeacoffee.com/samcode38" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
